@@ -1,0 +1,2 @@
+# M-todo-da-Bissec-o
+This project consist in a numerical calculus algorithm for find zeros of real functions. The name of algorithm is Method of Bisection, the basic idea for this method consist in: given an interval, and choose the precision. Then, the algorithm will divide the interval in half, containing a possible root and so it will be done until the interval distance will be smaller than the chosen precision. In the end, the program will print the approximation of the root.
